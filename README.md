@@ -1,5 +1,5 @@
 # Biology-calculation-methods---algorithms
-The exercises was solved together with Avishay (another student).
+The exercises was solved together with Avishay Vizel (another student).
 
 ex1: Cellular automaton that represent experiments over Corona virus in population.
 
