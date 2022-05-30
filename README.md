@@ -1,8 +1,8 @@
 # Biology-calculation-methods---algorithms
-The exercises was solved together with Avishay Vizel (another student).
+The exercises were solved together with Avishay Vizel (another student).
 
-ex1: Cellular automaton that represent experiments over Corona virus in population.
+Ex1: Cellular automaton that represents experiments over Coronavirus in population.
 
-ex2: Evolutionary algorithms trying to solve Nonogram.
+Ex2: Evolutionary algorithms trying to solve Nonogram.
 
-ex3: Experimenting remembering letters and like in matrix with hophman method algo' 
+Ex3: Experimenting with remembering letters in matrix with Hoffman method algorithm.
